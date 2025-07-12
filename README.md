@@ -1,3 +1,4 @@
+👉 [English version](README_EN.md)
 # 性别判断器
 
 这是一个用 Python 和 Tkinter 写的简单 GUI 程序，功能是根据用户输入的名字随机显示“你是男的”或“你是女的”。
