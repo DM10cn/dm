@@ -36,7 +36,7 @@ Starting from version 1.3, this project incorporates icons from [Simple Icons](h
 
 ## Lyrics Copyright Notice
 
-The file [`main/Note 2025-05-31 10-28-06.txt`](main/Note%202025-05-31%2010-28-06.txt) included in this project contains a portion of lyrics, used solely for demonstration and technical purposes.
+The file [`Note 2025-05-31 10-28-06.txt`](Note%202025-05-31%2010-28-06.txt) included in this project contains a portion of lyrics, used solely for demonstration and technical purposes.
 
 - All rights to the lyrics belong to their original copyright holders.
 - This project does not claim any ownership of the lyrics, nor is it used for any commercial purpose.
