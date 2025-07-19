@@ -23,8 +23,13 @@ It allows users to enter a name and randomly displays a gender: "You are male" o
 
 ## 🖥️ Usage
 
-### ✅ Run with Python
+## Running the Source Code
 
-Make sure you have Python 3.6 or higher installed:
+1. Ensure Python 3.6 or higher is installed.  
+2. Execute in the command line:  
+   ```bash
+   python main.py
 
-python main.py
+   ## Icon Attribution
+
+Starting from version 1.3, this project incorporates icons from [Simple Icons](https://github.com/simple-icons/simple-icons), licensed under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) license.
