@@ -34,3 +34,7 @@
 1. 确保安装 Python 3.6+  
 2. 在命令行执行：  
    python main.py
+
+## 图标声明
+
+自 1.3 版本起，本项目使用了来自 [Simple Icons](https://github.com/simple-icons/simple-icons) 的图标，采用 [CC0 1.0 通用](https://creativecommons.org/publicdomain/zero/1.0/) 许可协议。
