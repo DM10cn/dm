@@ -1,8 +1,8 @@
-## License
+## 许可证
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![许可证: MIT](https://img.shields.io/badge/许可证-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+本项目采用 MIT 许可证，详情请参阅项目根目录的 [LICENSE](LICENSE) 文件。
 
 👉 [English version](README_EN.md)
 # 性别判断器
